@@ -2,3 +2,10 @@
 - 리눅스 기초 명령
 - 기초 깃 명령어
   fetch pull
+- Go 환경 셋업
+  컴파일러 설치(go.dev/dl)
+  VSC 설치(주소 생략)
+  확장 플러그인 설치, Go도구 업데이트
+  go mod init★ sample
+  cd sample
+  go run main.go
