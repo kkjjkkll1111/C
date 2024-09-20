@@ -3,3 +3,5 @@
 cd..
 -. 기초 깃 명령어
 clone
+-. 트러블 슈팅
+-. git config --list
